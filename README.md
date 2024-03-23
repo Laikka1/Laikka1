@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Jerry Laitervo
+- i'm a student from Helsinki, Finland.
