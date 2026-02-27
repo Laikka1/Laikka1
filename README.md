@@ -1,6 +1,6 @@
 # Jerry Laitervo
 
-M.Sc. Computer Science – Big Data & Large-Scale Computing  
+M.Sc. Computer Science – Major: Big Data & Large-Scale Computing Minor: Data Science, Machine Learning and Artificial Intelligence 
 Junior Development Specialist (Infrastructure sector)
 
 ## Focus
